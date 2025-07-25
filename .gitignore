@@ -34,3 +34,6 @@ Pipfile
 
 # Exported results file
 django-queries-results.html
+venv/
+__pycache__/
+*.pyc
